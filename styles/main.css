@@ -1,0 +1,246 @@
+* {
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto';
+}
+
+.hero{
+    background-color: #EEF1F7;
+    padding-top: 101px;
+    padding-bottom: 150px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1300px;
+    
+}
+
+.container .title{
+    margin: 0 auto;
+    text-align: center;
+    width: 731px;
+    font-size: 48px;
+    padding-top: 101px;
+}
+
+.hero .container .spn {
+    background-color: #F9ED32;
+}
+
+    .container .subtitle{
+        margin: 0 auto;
+        text-align: center;
+        width: 781px;
+        padding-top: 20px;
+        font-size: 20px;
+    }
+
+    .hero .wrapper{
+        gap: 20px;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 70px;
+        padding: 30px;
+        align-items: flex-end;
+    }
+
+    .hero .cards {
+        width: 230px;
+        text-align: center;
+        padding: 30px;
+        background: #fff;
+        border-radius: 10px;
+        cursor: pointer;
+        top: 0;
+        transition: 0.5px;
+        object-fit: cover;
+        filter: drop-shadow(0px 0px 10px rgba(156, 160, 172, 0.4));
+        
+    
+    }
+
+    .hero .cards h3 {
+        padding-top: 20px;
+    }
+
+/* second page */
+    .double{
+        padding-top: 150px;
+        width: 1300px;
+        margin: 0 auto;
+    }
+    .double h2{
+        text-align: center;
+        font-size: 48px;
+        font-weight: 900;
+        line-height: 57px;
+        margin-bottom: 20px;
+    }
+    .cards-z{
+        display: flex;
+        justify-content: space-between;
+    }
+    .brands{
+        border-radius: 10px;
+        width: 420px;
+        background-color: #EEF1F7;
+        padding: 20px 30px 20px 20px;
+       
+    }
+    .brands h3{
+        font-size: 32px;
+        font-weight: 900;
+        margin-bottom: 30px;
+    }
+    .increases{
+        display: inline-flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .increases img{
+        width: 24px;
+        margin-right: 15px;
+    }
+    .increases h4{
+        font-size: 24px;
+        font-weight: 900;
+    }
+    .increases p{
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 24px;
+    }
+    /* clown code */
+    .clown{
+        text-align: center;
+        margin-top: 100px;
+    }
+    .clown .iconclown{
+        width: 91px;
+        height: 28px;
+        margin-bottom: 20px;
+        
+    
+    }
+    .clown p{
+        font-size: 18px;
+        font-weight: 400;
+        
+        width: 500px;
+        line-height: 28px;
+        margin-bottom: 20px;
+    }
+    .ben{
+        display:   inline-flex;
+        align-items: center;
+        justify-content: space-around;
+        margin-bottom: 150px;
+        margin-left: 15% ;
+    }
+    .ben img{
+        width: 80px;
+        margin-right: -120px;
+        
+    }
+
+    .storytelling{
+      margin: 0 auto;
+    }
+
+
+    /* third page */
+
+    .story .container{
+        margin: 0 auto;
+        width: 1300px;
+        background-color: #111827;
+        height: 448px;
+    }
+
+    .story .container .story-title{
+        width: 492px;
+        font-size: 46px;
+        padding-top: 95px;
+        padding-left: 44px;
+        color: #ffff;
+        
+    }
+    
+
+    .story .container .story-undertitle{
+        width: 503px;
+        height: 76px;
+        font-size: 18px;
+        padding-top: 20px;
+        padding-left: 44px;
+        color: #FFFFFF;
+    }
+
+    .story .container .story-subtitle{
+        width: 195px;
+        height: 28px;
+        font-size: 18px;
+        font-weight: 400;
+        padding-top: 13px;
+        padding-left: 44px;
+        color: #FFFFFF;
+    }
+
+    .story .container .jacole-img{
+        padding-top: 30px;
+        padding-left: 44px;
+    }
+
+    .story .container .woman{
+        width: 608px;
+        height: 396px;
+        position: absolute;
+        right: 279px;
+        margin-top: -280px;  
+          
+    }
+
+    .hero1{
+        background-color: #fff;
+        padding: 100px;
+    }
+    
+    .container1 {
+        width: 1300px;
+        margin: 0 auto;
+    
+    }
+    
+    
+    .container1 .title1 {
+        margin: 0 auto ;
+        text-align: center;
+        width: 647px;
+        font-size: 48px;
+    }
+    
+    .hero1 .wrapper1 {
+        gap: 10px;
+        
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top: 50px;
+    }
+    
+    
+    
+    
+    .hero1 .cards2 {
+        box-shadow: 0px 0px 10px rgba(156, 160, 172, 0.4);
+        width: 310px;
+        padding: 22px;
+        border-radius: 10px;
+    
+    }
+
